@@ -15,3 +15,5 @@ The combination that provides the best performance is determined as Random Fores
 
 
 ![alt text](https://github.com/Kubranurumar/Graph-Classification-for-Minimum-Bisection-Problem-using-Machine-Learning/blob/main/results.png?raw=true)
+
+We provide a training example for the XGBoost model in the Train file.
