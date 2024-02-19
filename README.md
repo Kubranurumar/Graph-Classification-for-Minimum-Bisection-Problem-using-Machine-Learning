@@ -12,4 +12,4 @@ GridSearchCV and RandomizedSearchCV tools are employed to select the best model 
 The combination that provides the best performance is determined as Random Forest model and the dataset created with deepwalk representation technique, and it is presented as an optimal solution to the graph bisection problem. 
 
 
-
+![alt text](https://github.com/Kubranurumar/Graph-Classification-for-Minimum-Bisection-Problem-using-Machine-Learning/blob/main/results.png?raw=true)
