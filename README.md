@@ -1,7 +1,7 @@
 # Graph-Classification-for-Minimum-Bisection-Problem-using-Machine-Learning
 The graph bisection problem involves dividing a given graph G = (V, E) into two equal-sized subsets V-1 and V-2, aiming to minimize the number of edges crossing between them. This cut between V-1 and V-2 is quantified by the size of the cut. The objective is to achieve the smallest cut possible, referred to as the bisection width of the graph. This problem is recognized as NP-complete. 
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftracer.lcc.uma.es%2Fproblems%2Fbisect%2Fbisect.htm&psig=AOvVaw0yqN_nzpMZTPwHdbyaVw5T&ust=1708429386062000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIi5_8apt4QDFQAAAAAdAAAAABAE?raw=true)
+![alt text](https://github.com/Kubranurumar/Graph-Classification-for-Minimum-Bisection-Problem-using-Machine-Learning/blob/main/bisection.jpg?raw=true)
 
 The main objective of the project is to provide a solution for NP-hard problems, which cannot be solved using traditional algorithms. The focus is on the graph bisection problem, and a machine learning model is employed to predict the solution with high accuracy. 
 
